@@ -1,2 +1,2 @@
-FROM alpine:3.17
+FROM alpine:3.22.1
 RUN apk add postfix bind-tools mailx
